@@ -4,11 +4,11 @@ Using a dataset containing information collected from each customer a model that
 
 ## Data Understanding
 The dataset (bigml_59c28831336c6604c800002a.csv) contains a subset of over 3000 entries with information on our clientele. Containing:
-*The State and Area code of users
-*The account age of users
-*Additional services they may have opted for
-*Their total usage in minutes and calls
-*And, how frequently they had called customer services
+* The State and Area code of users
+* The account age of users
+* Additional services they may have opted for
+* Their total usage in minutes and calls
+* And, how frequently they had called customer services
 
 ## Data Analysis
 Logistic Regression was used to discern the customer churn rate (likelihood to lose a customer).
