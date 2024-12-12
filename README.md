@@ -15,5 +15,6 @@ Logistic Regression was used to discern the customer churn rate (likelihood to l
 It was found that considering the account age, total usage and additional plans, were the most useful in predicting the churn rate
 
 presentation link: https://docs.google.com/presentation/d/1taoyMeaf--qqS7hAKLccNZRxn9vmsbkxL2s9VhntPp4/edit#slide=id.p
+
 dataset source: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data
 
